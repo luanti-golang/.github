@@ -1,6 +1,8 @@
 
 # minetest-go
 
+> **This organization has moved to [luanti-golang](https://github.com/luanti-golang)** (Minetest was renamed to Luanti). Please use the new location for all repositories, issues and pull requests.
+
 ![](./icon/org.png)
 
 Golang libraries and applications for minetest
